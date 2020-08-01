@@ -18,11 +18,11 @@ Operations:
 6. Complement of A
 ## Assignment 2
 Implement the following membership functions:
- Triangular
- Trapezoidal
- Gaussian
- Generalized Bell
- Sigmoidal
+1. Triangular
+2. Trapezoidal
+3. Gaussian
+4. Generalized Bell
+5. Sigmoidal
 ## Assignment 3
 Find applications where you find fuzzy logic to be suitable
 ## Assignment 4
@@ -39,7 +39,7 @@ Calculate the membership of “ Acceptable Temperature OR Acceptable
 Humidity”.
 ## Assignment 7
 Given, following membership functions for fuzzy sets old and young
- ( ) ( )
+  ( ) ( )
  ( ) ( )
 Where, x is the age of the person. Calculate the value of the following:
 1. More or less young
