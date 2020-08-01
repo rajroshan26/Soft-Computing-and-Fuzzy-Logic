@@ -1,10 +1,10 @@
 # Soft-Computing-and-Fuzzy-Logic
 ## Topics Covered in the Assignments
-### A. Fuzzy Logic:
-#### 1. Fuzzy Set Operations
-#### 2. Membership functions
-#### 3. Fuzzy Rules
-#### 4. Fuzzy Inference System
+### A. Fuzzy Logic
+ #### 1. Fuzzy Set Operations
+ #### 2. Membership functions
+ #### 3. Fuzzy Rules
+ #### 4. Fuzzy Inference System
 ### B.Genetic Algorithms
 # A. Fuzzy Logic
 ## Assignment 1
