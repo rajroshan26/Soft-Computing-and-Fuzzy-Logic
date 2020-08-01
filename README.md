@@ -1,6 +1,6 @@
 # Soft-Computing-and-Fuzzy-Logic
 ## Topics Covered in the Assignments
-### A. Fuzzy Logic
+### A. Fuzzy Logic:
 #### 1. Fuzzy Set Operations
 #### 2. Membership functions
 #### 3. Fuzzy Rules
