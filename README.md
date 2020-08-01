@@ -1,12 +1,12 @@
 # Soft-Computing-and-Fuzzy-Logic
 ## Topics Covered in the Assignments
-### Fuzzy Logic
-#### Fuzzy Set Operations
-#### Membership functions
-#### Fuzzy Rules
-#### Fuzzy Inference System
-### Genetic Algorithms
-# Fuzzy Logic
+### A. Fuzzy Logic
+#### 1. Fuzzy Set Operations
+#### 2. Membership functions
+#### 3. Fuzzy Rules
+#### 4. Fuzzy Inference System
+### B.Genetic Algorithms
+# A. Fuzzy Logic
 ## Assignment 1
 On two fuzzy sets A and B, Implement the following Fuzzy Set
 Operations:
@@ -102,7 +102,7 @@ etc. -> Initialize fuzzy system with membership function->
 Define fuzzy rules->Get fuzzy decision for washing time
 prediction
 7
-# Genetic Algorithms
+# B. Genetic Algorithms
 
 ## Assignment 13
 For any sample data set, implement Order Encoding for Travelling
@@ -131,4 +131,3 @@ X1 and x2 have three and two decimal places respectively
 1. Encode using binary encoding
 2. Compute the fitness and perform crossover and mutation to yield
 optimum results.
-For any sampl
